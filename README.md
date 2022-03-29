@@ -1,0 +1,2 @@
+# SOCNET
+Analiza socijalnih mreza
