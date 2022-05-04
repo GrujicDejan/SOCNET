@@ -1,0 +1,3 @@
+Napraviti klasu graf koja moze da ucitava gml fajlove. Ucitati dolphins.gml i za
+posmatrane delfine ispitati da li postoje zajednice u koje se oni dele, ako ih
+ima -- koliko ih je?
